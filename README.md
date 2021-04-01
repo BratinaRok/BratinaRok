@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BratinaRok
 - 👀 I’m interested in development of Java software,apps and Android. 
-- 🌱 I’m currently learning Java and next is Kotlin.
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any projects based on Java code.
 - 📫 How to reach me bratinarok@gmail.com
 
